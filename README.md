@@ -1,4 +1,4 @@
-# End to end Text-Summarizer-Project
+# NLP - Text Summarization Project
 
 ## Workflows
 
